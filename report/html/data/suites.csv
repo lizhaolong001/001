@@ -1,0 +1,4 @@
+"Status","Name","Duration in ms","Description"
+"passed","scripts.test_contact.TestContact.test_contact[args1]","23062",""
+"passed","scripts.test_contact.TestContact.test_contact[args0]","23511",""
+"passed","scripts.test_contact.TestContact.test_contact[args2]","23039",""

@@ -1,0 +1,127 @@
+{
+  "uid" : "3799e76b9c9d08e9",
+  "name" : "test_contact.TestContact.test_contact[args1]",
+  "fullName" : "scripts.test_contact.TestContact.test_contact[args1]",
+  "historyId" : "7079966a1b0f181a07b6802aa089f340",
+  "time" : {
+    "start" : 1570602403759,
+    "stop" : 1570602426821,
+    "duration" : 23062
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "点击添",
+      "time" : {
+        "start" : 1570602416205,
+        "stop" : 1570602416654,
+        "duration" : 449
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "输入名字",
+      "time" : {
+        "start" : 1570602416654,
+        "stop" : 1570602418955,
+        "duration" : 2301
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "fb35272497db9ad",
+        "name" : "名字:",
+        "source" : "fb35272497db9ad.txt",
+        "type" : "text/plain",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "输入电话",
+      "time" : {
+        "start" : 1570602418955,
+        "stop" : 1570602424756,
+        "duration" : 5801
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "884e1638fef1113a",
+        "name" : "截图：",
+        "source" : "884e1638fef1113a.png",
+        "type" : "image/png",
+        "size" : 144537
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-GKR7RS6"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "thread",
+    "value" : "10192-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "scripts"
+  }, {
+    "name" : "testClass",
+    "value" : "scripts"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_contact.TestContact.test_contact[args1]"
+  }, {
+    "name" : "package",
+    "value" : "scripts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3799e76b9c9d08e9.json",
+  "parameterValues" : [ ]
+}

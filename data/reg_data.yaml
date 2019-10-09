@@ -1,0 +1,10 @@
+test_contact:
+  test_contact01:
+    name: "zhangsan"
+    phone: "18888888888"
+  test_contact02:
+    name: "lisi"
+    phone: "13333333333"
+  test_contact03:
+    name: "wangwu"
+    phone: "17777777777"

@@ -1,0 +1,111 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1570602374702" stop="1570602455400">
+  <name>scripts</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1570602374702" status="passed" stop="1570602398213">
+      <name>test_contact.TestContact.test_contact[args0]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="blocker"/>
+        <label name="thread" value="10192-MainThread"/>
+        <label name="host" value="DESKTOP-GKR7RS6"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1570602387458" status="passed" stop="1570602387880">
+          <name>点击添</name>
+          <title>点击添</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1570602387880" status="passed" stop="1570602390138">
+          <name>输入名字</name>
+          <title>输入名字</title>
+          <attachments>
+            <attachment source="9c681770-c461-4602-a5e9-ad80710492f8-attachment.txt" title="名字:" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1570602390138" status="passed" stop="1570602395900">
+          <name>输入电话</name>
+          <title>输入电话</title>
+          <attachments>
+            <attachment source="a60a1b9c-1bea-4dba-95f7-16e07547bc2c-attachment.png" title="截图：" type="image/png"/>
+          </attachments>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1570602403759" status="passed" stop="1570602426821">
+      <name>test_contact.TestContact.test_contact[args1]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="blocker"/>
+        <label name="thread" value="10192-MainThread"/>
+        <label name="host" value="DESKTOP-GKR7RS6"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1570602416205" status="passed" stop="1570602416654">
+          <name>点击添</name>
+          <title>点击添</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1570602416654" status="passed" stop="1570602418955">
+          <name>输入名字</name>
+          <title>输入名字</title>
+          <attachments>
+            <attachment source="3946302b-7e4c-422d-a29f-11125fec6607-attachment.txt" title="名字:" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1570602418955" status="passed" stop="1570602424756">
+          <name>输入电话</name>
+          <title>输入电话</title>
+          <attachments>
+            <attachment source="78cd7884-d17b-4a10-b76c-862eda31ac2c-attachment.png" title="截图：" type="image/png"/>
+          </attachments>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1570602432361" status="passed" stop="1570602455400">
+      <name>test_contact.TestContact.test_contact[args2]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="blocker"/>
+        <label name="thread" value="10192-MainThread"/>
+        <label name="host" value="DESKTOP-GKR7RS6"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1570602444147" status="passed" stop="1570602444656">
+          <name>点击添</name>
+          <title>点击添</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1570602444656" status="passed" stop="1570602446931">
+          <name>输入名字</name>
+          <title>输入名字</title>
+          <attachments>
+            <attachment source="d5c8b5ac-0334-4a3e-aad5-e55e77b8f05c-attachment.txt" title="名字:" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1570602446931" status="passed" stop="1570602453020">
+          <name>输入电话</name>
+          <title>输入电话</title>
+          <attachments>
+            <attachment source="4c2ee89c-be90-4162-b3f5-8654cc587b0c-attachment.png" title="截图：" type="image/png"/>
+          </attachments>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

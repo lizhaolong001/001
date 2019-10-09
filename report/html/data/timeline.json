@@ -1,0 +1,49 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-GKR7RS6",
+    "children" : [ {
+      "name" : "10192-MainThread",
+      "children" : [ {
+        "name" : "test_contact.TestContact.test_contact[args1]",
+        "uid" : "3799e76b9c9d08e9",
+        "parentUid" : "5cffce989a9b1e74502746ebba78d512",
+        "status" : "passed",
+        "time" : {
+          "start" : 1570602403759,
+          "stop" : 1570602426821,
+          "duration" : 23062
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_contact.TestContact.test_contact[args0]",
+        "uid" : "99fc21072ef593a3",
+        "parentUid" : "5cffce989a9b1e74502746ebba78d512",
+        "status" : "passed",
+        "time" : {
+          "start" : 1570602374702,
+          "stop" : 1570602398213,
+          "duration" : 23511
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_contact.TestContact.test_contact[args2]",
+        "uid" : "846300a61f4f5286",
+        "parentUid" : "5cffce989a9b1e74502746ebba78d512",
+        "status" : "passed",
+        "time" : {
+          "start" : 1570602432361,
+          "stop" : 1570602455400,
+          "duration" : 23039
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5cffce989a9b1e74502746ebba78d512"
+    } ],
+    "uid" : "1423c534b1ce0eb021264f07f65b60fa"
+  } ]
+}
